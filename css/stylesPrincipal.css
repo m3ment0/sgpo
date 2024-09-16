@@ -1,0 +1,32 @@
+/* ---------Nav bar---------------*/
+.navbar {
+    margin-top: -12px;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.dentista {
+    margin-right: auto;
+    margin-left: 450px;
+    height: 400px;
+    margin-top: 50px;
+
+}
+
+.menuPrincipal {
+    font-weight: 200;
+    background-color: #4896cf;
+}
+
+.carousel {
+    width: 900px;
+}
+
+.slide img {
+    height: 370px;
+    margin-top: 20px;
+}

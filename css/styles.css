@@ -1,0 +1,63 @@
+.container-fluid {
+    background-color: #4896cf;
+}
+
+.login{ font-weight: 200;}
+
+h1 {
+    color: white;
+}
+
+img {
+    margin-top: 120px;
+}
+
+.usuario {
+    margin-top: 10px
+}
+
+.inputUsuario {
+    width: 260px;
+    margin-top: 5px;
+}
+
+.rol {
+    margin-top: 5px;
+}
+
+.selecRol {
+    width: 260px;
+}
+
+.contraseña {
+    margin-top: 5px;
+}
+
+.inputpass {
+    width: 260px;
+    margin-bottom: 42px;
+}
+
+.boton , .a {
+    width: 350px;
+    height: 35px;
+    display: grid;
+    margin: 0 auto;
+    background-color: #4896cf;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+/* .enlace {
+    text-decoration: none;
+} */
+
+.link {
+    display: flex;
+    text-decoration: none;
+    color: white;
+
+}
